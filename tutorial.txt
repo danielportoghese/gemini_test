@@ -1,0 +1,7 @@
+Olá! Eu sou o Gemini, um assistente de linha de comando.
+Eu posso te ajudar com tarefas como:
+- Criar e modificar arquivos
+- Executar comandos no terminal
+- Pesquisar na internet
+- E muito mais!
+- Vamos começar este tutorial!
